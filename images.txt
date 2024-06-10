@@ -1,20 +1,4 @@
-postgres:15-alpine
-redis:latest
-matrixdotorg/synapse:latest
-vectorim/element-web:latest
-awesometechnologies/synapse-admin
-xhofe/alist-aria2:latest
-xhofe/alist-aria2
-difegue/lanraragi
-quay.io/minio/minio:latest
-excalidraw/excalidraw
-ghcr.io/ajnart/homarr:latest
-easychen/cookiecloud:latest
-jellyfin/jellyfin
-lscr.io/linuxserver/qbittorrent:latest
-linuxserver/qbittorrent:latest
-headscale/headscale
---platform=linux/amd64 registry
+registry
 joxit/docker-registry-ui:latest
 drone/drone:latest
 mumblevoip/mumble-server:latest

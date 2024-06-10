@@ -1,1 +1,46 @@
---platform=linux/amd64 alpine:latest
+--platform=linux/amd64 caddy
+lissy93/dashy:latest
+gotson/komga:latest
+deluan/navidrome:latest
+mmmz/trwebocr:latest
+jgraph/drawio:latest
+yuanter/unlock-music
+traefik/whoami:latest
+adguard/adguardhome:latest
+photoprism/photoprism:latest
+mariadb:10.10
+gitea/gitea:1.19.0
+mysql:8
+searxng/searxng:latest
+redis:alpine
+corentinth/it-tools:latest
+wbsu2003/webp2jpg-online:latest
+frooodle/s-pdf:latest
+wbsu2003/tldraw:latest
+adolfintel/speedtest:latest
+binwiederhier/ntfy:latest
+mauricenino/dashdot:latest
+louislam/uptime-kuma:latest
+postgres:15-alpine:latest
+redis:latest
+matrixdotorg/synapse:latest
+vectorim/element-web:latest
+awesometechnologies/synapse-admin
+xhofe/alist-aria2:latest
+xhofe/alist-aria2
+difegue/lanraragi
+quay.io/minio/minio:latest
+excalidraw/excalidraw
+ghcr.io/ajnart/homarr:latest
+easychen/cookiecloud:latest
+jellyfin/jellyfin
+lscr.io/linuxserver/qbittorrent:latest
+linuxserver/qbittorrent:latest
+headscale/headscale
+--platform=linux/amd64 registry
+joxit/docker-registry-ui:latest
+drone/drone:latest
+mumblevoip/mumble-server:latest
+docker.io/library/postgres:12-alpine
+docker.io/library/redis:alpine
+ghcr.io/goauthentik/server:2024.4.1

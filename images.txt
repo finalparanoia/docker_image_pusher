@@ -1,5 +1,13 @@
 caddy
 lissy93/dashy:latest
+mumblevoip/mumble-server:latest
+docker.io/library/postgres:12-alpine
+docker.io/library/redis:alpine
+ghcr.io/goauthentik/server:2024.4.1
+linuxserver/syncthing:latest
+ghcr.io/bililiverecorder/bililiverecorder-webui:master
+xfgryujk/blivechat:latest
+tobyxdd/hysteria
 gotson/komga:latest
 deluan/navidrome:latest
 mmmz/trwebocr
@@ -40,7 +48,3 @@ dezhao/lanraragi_cn
 registry
 joxit/docker-registry-ui:latest
 drone/drone:latest
-mumblevoip/mumble-server:latest
-docker.io/library/postgres:12-alpine
-docker.io/library/redis:alpine
-ghcr.io/goauthentik/server:2024.4.1

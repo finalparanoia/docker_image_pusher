@@ -1,4 +1,4 @@
-filebrowser/filebrowser
+filebrowser/filebrowser:s6
 caddy
 lissy93/dashy:latest
 mumblevoip/mumble-server:latest
